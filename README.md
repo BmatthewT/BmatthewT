@@ -58,19 +58,23 @@ I like turning ideas into working software: desktop apps, websites, and small to
 
 ---
 
-### Currently Building
+### Featured Project
 
 <table>
 <tr>
 <td width="55%" valign="top">
 
-**Mass Visual Studio**
+**[Mass Visual Studio](https://github.com/BmatthewT/mass-visual-studio)**  
 A Visual Studio-style C# IDE for Linux built with Electron and Monaco.
 
-- Solution Explorer, Error List, and Output/Terminal panels
+- Solution Explorer, Error List, and integrated Terminal
 - Build, run, test, NuGet, and Git integration
-- Integrated terminal with interactive `Console.ReadLine()`
+- Interactive terminal input for `Console.ReadLine()`
 - Automatic .NET SDK detection
+- Available as AppImage and `.deb`
+
+[![Download](https://img.shields.io/badge/DOWNLOAD-LINUX%20BUILD-7E22CE?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/BmatthewT/mass-visual-studio/releases/latest)
+[![Repository](https://img.shields.io/badge/SOURCE-REPOSITORY-1A1025?style=for-the-badge&logo=github&logoColor=C084FC)](https://github.com/BmatthewT/mass-visual-studio)
 
 </td>
 <td width="45%" valign="top">
@@ -81,6 +85,13 @@ A Visual Studio-style C# IDE for Linux built with Electron and Monaco.
 - Tools that feel fast and simple
 - Learning by shipping real projects
 - Sharing progress and improving openly
+
+**Currently exploring**
+
+- C# / .NET desktop tooling
+- Web experiences for school projects
+- Minecraft plugins and utilities
+- Linux-first development
 
 </td>
 </tr>
