@@ -8,9 +8,9 @@
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=BmatthewT&color=7E22CE&style=plastic&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/BmatthewT?style=plastic&color=7E22CE&labelColor=1A1025)
-![Status](https://img.shields.io/badge/STATUS-BUILDING-7E22CE?style=plastic&labelColor=1A1025)
+![Profile Views](https://komarev.com/ghpvc/?username=BmatthewT&color=7E22CE&style=for-the-badge&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/BmatthewT?style=for-the-badge&color=7E22CE&labelColor=1A1025)
+![Status](https://img.shields.io/badge/STATUS-BUILDING-7E22CE?style=for-the-badge&labelColor=1A1025)
 
 <br/><br/>
 
@@ -42,17 +42,17 @@ I like turning ideas into working software: desktop apps, websites, and small to
 
 <div align="center">
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=plastic&logo=dotnet&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=plastic&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=plastic&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=plastic&logo=electron&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=plastic&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=plastic&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
@@ -73,8 +73,8 @@ A Visual Studio-style C# IDE for Linux built with Electron and Monaco.
 - Automatic .NET SDK detection
 - Available as AppImage and `.deb`
 
-[![Download](https://img.shields.io/badge/DOWNLOAD-LINUX%20BUILD-7E22CE?style=plastic&logo=linux&logoColor=white)](https://github.com/BmatthewT/mass-visual-studio/releases/latest)
-[![Repository](https://img.shields.io/badge/VIEW-REPOSITORY-1A1025?style=plastic&logo=github&logoColor=C084FC)](https://github.com/BmatthewT/mass-visual-studio)
+[![Download](https://img.shields.io/badge/DOWNLOAD-LINUX%20BUILD-7E22CE?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/BmatthewT/mass-visual-studio/releases/latest)
+[![Repository](https://img.shields.io/badge/VIEW-REPOSITORY-1A1025?style=for-the-badge&logo=github&logoColor=C084FC)](https://github.com/BmatthewT/mass-visual-studio)
 
 </td>
 <td width="45%" valign="top">
@@ -103,16 +103,16 @@ A Visual Studio-style C# IDE for Linux built with Electron and Monaco.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BmatthewT&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_color=7E22CE&border_radius=18&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB&icon_color=A855F7&ring_color=A855F7" alt="GitHub Stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BmatthewT&layout=compact&langs_count=8&hide_border=false&border_color=7E22CE&border_radius=18&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB" alt="Top Languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=BmatthewT&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB&icon_color=A855F7&ring_color=A855F7" alt="GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BmatthewT&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=E5E7EB" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=BmatthewT&hide_border=false&border=7E22CE&border_radius=18&background=0D1117&stroke=7E22CE&ring=A855F7&fire=C084FC&currStreakNum=E9D5FF&currStreakLabel=C084FC&sideNums=E5E7EB&sideLabels=E5E7EB&dates=9CA3AF" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=BmatthewT&hide_border=true&background=0D1117&stroke=7E22CE&ring=A855F7&fire=C084FC&currStreakNum=E9D5FF&currStreakLabel=C084FC&sideNums=E5E7EB&sideLabels=E5E7EB&dates=9CA3AF" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://ghchart.rshah.org/7E22CE/BmatthewT" width="100%" alt="Contribution Chart" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BmatthewT&bg_color=0D1117&color=C084FC&line=A855F7&point=E9D5FF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
 
@@ -122,7 +122,7 @@ A Visual Studio-style C# IDE for Linux built with Electron and Monaco.
 
 ### Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-BmatthewT-7E22CE?style=plastic&logo=github&logoColor=white)](https://github.com/BmatthewT)
+[![GitHub](https://img.shields.io/badge/GitHub-BmatthewT-7E22CE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BmatthewT)
 
 Open to collaboration, feedback, and interesting projects.
 
