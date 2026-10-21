@@ -112,7 +112,7 @@ A Visual Studio-style C# IDE for Linux built with Electron and Monaco.
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BmatthewT&bg_color=0D1117&color=C084FC&line=A855F7&point=E9D5FF&area=true&hide_border=false&radius=16" width="100%" alt="Activity Graph" />
+<img src="https://ghchart.rshah.org/7E22CE/BmatthewT" width="100%" alt="Contribution Chart" />
 
 </div>
 
