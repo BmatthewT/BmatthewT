@@ -74,7 +74,7 @@ A Visual Studio-style C# IDE for Linux built with Electron and Monaco.
 - Available as AppImage and `.deb`
 
 [![Download](https://img.shields.io/badge/DOWNLOAD-LINUX%20BUILD-7E22CE?style=for-the-badge&logo=linux&logoColor=white)](https://github.com/BmatthewT/mass-visual-studio/releases/latest)
-[![Repository](https://img.shields.io/badge/SOURCE-REPOSITORY-1A1025?style=for-the-badge&logo=github&logoColor=C084FC)](https://github.com/BmatthewT/mass-visual-studio)
+[![Repository](https://img.shields.io/badge/VIEW-REPOSITORY-1A1025?style=for-the-badge&logo=github&logoColor=C084FC)](https://github.com/BmatthewT/mass-visual-studio)
 
 </td>
 <td width="45%" valign="top">
